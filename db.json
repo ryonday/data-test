@@ -2,19 +2,19 @@
   "items": [ {
       "sku": "12345",
       "color": "blue",
-      "image_url": "http://www.images.com/12345.jpg",
+      "image_url": "http://www.images.com/12345.jpg"
     },{
       "sku": "12346",
       "color": "red",
-      "image_url": "http://www.images.com/12345.jpg",
+      "image_url": "http://www.images.com/12345.jpg"
     },{
       "sku": "12347",
       "color": "yellow",
-      "image_url": "http://www.images.com/12345.jpg",
+      "image_url": "http://www.images.com/12345.jpg"
     },{
       "sku": "12348",
       "color": "green",
-      "image_url": "http://www.images.com/12345.jpg",
+      "image_url": "http://www.images.com/12345.jpg"
     }
   ]
 }
