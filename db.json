@@ -2,19 +2,23 @@
   "items": [ {
       "sku": "12345",
       "color": "blue",
-      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/1795890864djdpjdl3n76h4wscuqp8.jpg"
+      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/1795890864djdpjdl3n76h4wscuqp8.jpg",
+      "reccos": ["foo", "bar"]
     },{
       "sku": "12346",
       "color": "red",
-      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/728e4c9fd05cfcc37af04b868622652db400bd21.jpg"
+      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/728e4c9fd05cfcc37af04b868622652db400bd21.jpg",
+      "reccos": ["baz", "qux"]
     },{
       "sku": "12347",
       "color": "yellow",
-      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/1838292759sa09jkzlo2qipvy9ticy.jpg"
+      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/1838292759sa09jkzlo2qipvy9ticy.jpg",
+      "reccos": ["garple", "gibble"]
     },{
       "sku": "12348",
       "color": "green",
-      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/2000756639xbriysvk5sjrdkjaospn.jpg"
+      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/2000756639xbriysvk5sjrdkjaospn.jpg",
+      "reccos": ["pow", "bop"]
     }
   ]
 }
