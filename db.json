@@ -2,19 +2,19 @@
   "items": [ {
       "sku": "12345",
       "color": "blue",
-      "image_url": "http://www.images.com/12345.jpg"
+      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/1795890864djdpjdl3n76h4wscuqp8.jpg"
     },{
       "sku": "12346",
       "color": "red",
-      "image_url": "http://www.images.com/12345.jpg"
+      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/728e4c9fd05cfcc37af04b868622652db400bd21.jpg"
     },{
       "sku": "12347",
       "color": "yellow",
-      "image_url": "http://www.images.com/12345.jpg"
+      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/1838292759sa09jkzlo2qipvy9ticy.jpg"
     },{
       "sku": "12348",
       "color": "green",
-      "image_url": "http://www.images.com/12345.jpg"
+      "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/2000756639xbriysvk5sjrdkjaospn.jpg"
     }
   ]
 }
