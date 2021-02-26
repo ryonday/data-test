@@ -2,7 +2,7 @@
   "items": [ {
       "sku": "12345",
       "description": "Clean, fresh white crew-neck tee",
-      "brand_name": "Shirts R Us"
+      "brand_name": "Shirts R Us",
       "color": "white",
       "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/1795890864djdpjdl3n76h4wscuqp8.jpg",
       "goes_well_with": [ {
