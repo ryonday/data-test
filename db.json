@@ -1,24 +1,59 @@
 {
   "items": [ {
       "sku": "12345",
-      "color": "blue",
+      "description": "Clean, fresh white crew-neck tee",
+      "brand_name": "Shirts R Us"
+      "color": "white",
       "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/1795890864djdpjdl3n76h4wscuqp8.jpg",
-      "reccos": ["foo", "bar"]
+      "goes_well_with": [ {
+        "sku": "23456",
+        "description": "Ridiculously baggy jeans",
+        "color": "distressed denim",
+        "brand_name": "JNCO",
+        "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/a6e2170a3918f105d7fc088133170e606eb56b5c.jpg"
+        }  
+      ]
     },{
       "sku": "12346",
-      "color": "red",
+      "description": "Jellies sandals",
+      "brand_name": "Jellies",
+      "color": "pink",
       "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/728e4c9fd05cfcc37af04b868622652db400bd21.jpg",
-      "reccos": ["baz", "qux"]
+      "goes_well_with": [ {
+        "sku": "23457",
+        "description": "One of those late-80s snap bracelets",
+        "brand_name": "Snappies",
+        "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/c8cb74834d4a29406306fc8cbdb6c573496edaf8.jpg"
+        }  
+      ]
     },{
       "sku": "12347",
-      "color": "yellow",
+      "description": "Braided Belt",
+      "brand_name": "We Make Belts, inc",
+      "color": "brown leather",
       "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/1838292759sa09jkzlo2qipvy9ticy.jpg",
-      "reccos": ["garple", "gibble"]
+      "goes_well_with": [ {
+        "sku": "23458",
+        "description": "Above-the-knees shorts",
+        "color": "salmon",
+        "brand_name": "Preppy Pants, ltd",
+        "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/c8cb74834d4a29406306fc8cbdb6c573496edaf8.jpg"
+        }  
+      ]
     },{
       "sku": "12348",
-      "color": "green",
+      "description": "Boat Shoes",
+      "brand": "Sperry Docksiders",
+      "color": "tan leather",
       "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/2000756639xbriysvk5sjrdkjaospn.jpg",
-      "reccos": ["pow", "bop"]
+      "goes_well_with": [ {
+        "sku": "23459",
+        "description": "Wayfarer sunglasses",      
+        "color": "black",
+        "brand_name": "Ray-Ban",
+        "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/c8cb74834d4a29406306fc8cbdb6c573496edaf8.jpg"
+        }  
+      ]
     }
   ]
 }
