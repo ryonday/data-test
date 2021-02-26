@@ -1,9 +1,9 @@
 {
   "items": [ {
       "sku": "12345",
-      "description": "Clean, fresh white crew-neck tee",
+      "description": "Long-sleeved shirt",
       "brand_name": "Shirts R Us",
-      "color": "white",
+      "color": "gray, brown white patterned",
       "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/1795890864djdpjdl3n76h4wscuqp8.jpg",
       "goes_well_with": [ {
         "sku": "23456",
@@ -15,9 +15,9 @@
       ]
     },{
       "sku": "12346",
-      "description": "Jellies sandals",
-      "brand_name": "Jellies",
-      "color": "pink",
+      "description": "Pants",
+      "brand_name": "PantsCo",
+      "color": "black",
       "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/728e4c9fd05cfcc37af04b868622652db400bd21.jpg",
       "goes_well_with": [ {
         "sku": "23457",
@@ -28,9 +28,9 @@
       ]
     },{
       "sku": "12347",
-      "description": "Braided Belt",
-      "brand_name": "We Make Belts, inc",
-      "color": "brown leather",
+      "description": "Long-Sleeved Shirt",
+      "brand_name": "Shirt Time!",
+      "color": "Red and Gray Striped",
       "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/1838292759sa09jkzlo2qipvy9ticy.jpg",
       "goes_well_with": [ {
         "sku": "23458",
@@ -42,9 +42,9 @@
       ]
     },{
       "sku": "12348",
-      "description": "Boat Shoes",
-      "brand": "Sperry Docksiders",
-      "color": "tan leather",
+      "description": "shirt with lapels",
+      "brand": "We Love Shirts",
+      "color": "Minty Green",
       "image_url": "https://d1t26lkqdk7zjd.cloudfront.net/curatedquestion/2000756639xbriysvk5sjrdkjaospn.jpg",
       "goes_well_with": [ {
         "sku": "23459",
